@@ -1,0 +1,7 @@
+/dist
+
+src/views
+
+./logs/**
+
+src/@types
